@@ -1,0 +1,66 @@
+/* Profile.module.css */
+
+.container {
+  max-width: 500px;
+  margin: 20px auto;
+  padding: 25px;
+  background-color: #f9fafb;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #111827;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  font-weight: 600;
+  color: #374151;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #111827;
+}
+
+button {
+  margin-top: 20px;
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  border-radius: 5px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #4338ca;
+}
+
+p {
+  margin-top: 10px;
+  font-weight: 600;
+  text-align: center;
+}
+
+p.error {
+  color: #dc2626;
+}
+
+p.success {
+  color: #16a34a;
+}
