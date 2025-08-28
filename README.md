@@ -45,7 +45,8 @@ Follow these steps to run the project locally:
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Manas20008/react-workshop-app.git
-Install dependencies
+
+2. Install dependencies
 
 bash
 Copy code
@@ -53,20 +54,10 @@ cd client
 npm install
 cd ../Backend
 npm install
-Run the app
 
-Frontend (React):
+3. Run the App: For the **Frontend (React)**, open the terminal, go to the client folder using `cd client`, and start the server with `npm start`. For the **Backend (Express server)**, open the terminal, go to the Backend folder using `cd Backend`, and run the server with `npm run dev`.
 
-bash
-Copy code
-cd client
-npm start
-Backend (Express server):
 
-bash
-Copy code
-cd Backend
-npm run dev
 🛠️ Tech Stack
 ⚛️ React – Frontend
 
@@ -80,13 +71,9 @@ npm run dev
 Contributions are always welcome!
 
 Fork the repo
-
 Create your feature branch (git checkout -b feature/new-feature)
-
 Commit changes (git commit -m 'Add new feature')
-
 Push to the branch (git push origin feature/new-feature)
-
 Open a Pull Request
 
 📜 License
