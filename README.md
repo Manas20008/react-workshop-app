@@ -67,30 +67,31 @@ npm install
 
 🔑 JWT (JSON Web Tokens) – Authentication
 
-🙌 Contributing
+## 🛠️ Tech Stack
+- ⚛️ React – Frontend  
+- 🖥️ Express.js – Backend server  
+- 🍃 MongoDB – Database  
+- 🔑 JWT (JSON Web Tokens) – Authentication  
 
-Contributions are always welcome!
+---
 
-Fork the repo
+## 🙌 Contributing
+Contributions are always welcome!  
 
-Create your feature branch (git checkout -b feature/new-feature)
+1. Fork the repo  
+2. Create your feature branch (`git checkout -b feature/new-feature`)  
+3. Commit changes (`git commit -m 'Add new feature'`)  
+4. Push to the branch (`git push origin feature/new-feature`)  
+5. Open a Pull Request  
 
-Commit changes (git commit -m 'Add new feature')
+---
 
-Push to the branch (git push origin feature/new-feature)
+## 📜 License
+This project is **open-source** and available under the MIT License.  
 
-Open a Pull Request
+---
 
-📜 License
+## ⭐ Thanks
+Thanks for checking out this project!  
+If you found it useful, don’t forget to ⭐ star the repo.  
 
-This project is open-source and available under the MIT License.
-
-⭐ Support
-
-Thanks for checking out this project!
-If you found it useful, don’t forget to star the repo.
-📜 License
-This project is open-source and available under the MIT License.
-
-💡 Thanks for checking out this project!
-If you found it useful, don’t forget to ⭐ star the repo.
