@@ -57,8 +57,8 @@ npm install
 
 3. Run the App: For the **Frontend (React)**, open the terminal, go to the client folder using `cd client`, and start the server with `npm start`. For the **Backend (Express server)**, open the terminal, go to the Backend folder using `cd Backend`, and run the server with `npm run dev`.
 
-
 🛠️ Tech Stack
+
 ⚛️ React – Frontend
 
 🖥️ Express.js – Backend server
@@ -68,14 +68,27 @@ npm install
 🔑 JWT (JSON Web Tokens) – Authentication
 
 🙌 Contributing
+
 Contributions are always welcome!
 
 Fork the repo
+
 Create your feature branch (git checkout -b feature/new-feature)
+
 Commit changes (git commit -m 'Add new feature')
+
 Push to the branch (git push origin feature/new-feature)
+
 Open a Pull Request
 
+📜 License
+
+This project is open-source and available under the MIT License.
+
+⭐ Support
+
+Thanks for checking out this project!
+If you found it useful, don’t forget to star the repo.
 📜 License
 This project is open-source and available under the MIT License.
 
