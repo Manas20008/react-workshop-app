@@ -40,22 +40,50 @@ This project helps manage workshops with **secure authentication**, **role-based
 
 ## ⚡ Getting Started  
 
-Follow these steps to run the project locally:  
+Follow these steps to set up and run the project on your local machine:  
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/Manas20008/react-workshop-app.git
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/Manas20008/react-workshop-app.git
+2️⃣ Install Dependencies
+Install dependencies for both frontend and backend:
 
-2. Install dependencies
+bash
+Copy code
+# Frontend dependencies
+cd client
+npm install
+
+# Backend dependencies
+cd ../Backend
+npm install
+3️⃣ Run the App
+Frontend (React):
 
 bash
 Copy code
 cd client
-npm install
-cd ../Backend
-npm install
+npm start
+This starts the frontend at http://localhost:3000.
 
-3. Run the App: For the **Frontend (React)**, open the terminal, go to the client folder using `cd client`, and start the server with `npm start`. For the **Backend (Express server)**, open the terminal, go to the Backend folder using `cd Backend`, and run the server with `npm run dev`.
+Backend (Express server):
+
+bash
+Copy code
+cd Backend
+npm run dev
+This starts the backend API server at http://localhost:5000 (default).
+
+4️⃣ Access the Application
+Once both servers are running:
+
+Open http://localhost:3000 in your browser to use the app.
+
+The frontend communicates with the backend API for authentication, workshop management, and mentor assignments.
+
+vbnet
+Copy code
+
 
 🛠️ Tech Stack
 
